@@ -2,7 +2,6 @@
 - 👀 I’m interested in writing scalable apps
 - 🌱 I’m currently programming in Node.js 
 - 💞️ I’m looking to collaborate on everything awesome
-- 📫 kovats.kornel95@gmail.com
 
 <!---
 KornelKovats/KornelKovats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
