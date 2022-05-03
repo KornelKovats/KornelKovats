@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KornelKovats
 - 👀 I’m interested in writing scalable apps
-- 🌱 I’m currently learning Node.js and Go
+- 🌱 I’m currently programming in Node.js 
 - 💞️ I’m looking to collaborate on everything awesome
 - 📫 kovats.kornel95@gmail.com
 
